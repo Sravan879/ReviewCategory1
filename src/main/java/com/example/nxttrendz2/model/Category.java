@@ -1,12 +1,3 @@
-/*
- *
- * You can use the following import statements
- * 
- * import javax.persistence.*;
- * 
- */
-
-// Write your code here
 package com.example.nxttrendz2.model;
 
 import javax.persistence.*;
