@@ -1,5 +1,3 @@
-// Do not modify the code in this file
-
 package com.example.nxttrendz2;
 
 import org.springframework.boot.SpringApplication;
